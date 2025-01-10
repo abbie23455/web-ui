@@ -49,7 +49,7 @@ Then install playwright:
 playwright install
 ```
 
-## Usage
+## Usage usage
 
 1.  **Run the WebUI:**
     ```bash
