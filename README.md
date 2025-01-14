@@ -59,7 +59,7 @@ playwright install
    - Docker and Docker Compose installed on your system
    - Git to clone the repository
 
-2. **Setup:**
+2. **Setup1:**
    ```bash
    # Clone the repository
    git clone https://github.com/browser-use/web-ui.git
